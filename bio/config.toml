@@ -1,0 +1,18 @@
+baseURL = "http://henriquelopes.com.br/"
+languageCode = "en-us"
+title = "Henrique Lopes"
+theme = "hugo-sustain"
+
+[params]
+  avatar = "profile.png"
+  author = "Henrique Lopes"
+
+  custom_css = ['css/custom.css']
+
+[params.social]
+  Github        = "riquellopes"
+  Email         = "contato@henriquelopes.com.br"
+  Twitter       = "riquellopes"
+  LinkedIn      = "riquellopes"
+  Medium        = "riquellopes"
+  Telegram      = "riquellopes"

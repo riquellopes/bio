@@ -1,0 +1,17 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    description: ZeroBounce Python API. The response object allows an attribute-like style access.
+    url: https://github.com/riquellopes/zerobounce-python-api
+
+  - icon: fa fa-github
+    description:  Zerobounce Go API. Go integration for ZeroBounce service.
+    url: https://github.com/riquellopes/zerobounce-go-api
+
+  - icon: fa fa-github
+    description: Golf, Golang api to get basic informations about FII.
+    url: https://github.com/riquellopes/golf
+
+  - icon: fa fa-github
+    description: Mysql-anonymous, A support group for people who have PII in their mysql databases.
+    url: https://github.com/riquellopes/mysql-anonymous
