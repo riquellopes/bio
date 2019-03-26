@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Henrique Lopes</title>
-    <link>http://henriquelopes.com.br/tags/</link>
+    <link>http://blog.henriquelopes.com.br/tags/</link>
     <description>Recent content in Tags on Henrique Lopes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://henriquelopes.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.henriquelopes.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>projects</title>
-      <link>http://henriquelopes.com.br/tags/projects/</link>
+      <link>http://blog.henriquelopes.com.br/tags/projects/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://henriquelopes.com.br/tags/projects/</guid>
+      <guid>http://blog.henriquelopes.com.br/tags/projects/</guid>
       <description></description>
     </item>
     
