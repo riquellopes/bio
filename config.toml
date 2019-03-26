@@ -2,6 +2,7 @@ baseURL = "http://blog.henriquelopes.com.br/"
 languageCode = "en-us"
 title = "Henrique Lopes"
 theme = "hugo-sustain"
+googleAnalytics = "UA-72238128-1"
 
 [params]
   avatar = "profile.png"
