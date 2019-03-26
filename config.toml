@@ -1,4 +1,4 @@
-baseURL = "http://blog.henriquelopes.com.br/"
+baseURL = "http://henriquelopes.com.br/"
 languageCode = "en-us"
 title = "Henrique Lopes"
 theme = "hugo-sustain"
