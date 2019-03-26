@@ -1,0 +1,15 @@
+html, body {
+  border-top: 3px solid #061E82;
+}
+
+div.footer {
+    border-bottom: 5px solid #061E82;
+}
+
+.container a {
+  color: #061E82;
+}
+
+.container a:hover {
+  color: #2842AE;
+}
