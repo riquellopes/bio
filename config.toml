@@ -3,11 +3,13 @@ languageCode = "en-us"
 title = "Henrique Lopes"
 theme = "hugo-sustain"
 googleAnalytics = "UA-72238128-1"
+enableRobotsTXT = true
 
 [params]
   avatar = "profile.png"
   author = "Henrique Lopes"
-
+  GoogleSiteVerification = "fBjh-tuMYs3X78qprGCAy6fY38ish64qYL7Y_c74Q4U"
+  description = "Henrique's personal website, about his open source projects and web posts."
   custom_css = ['css/custom.css']
 
 [params.social]
