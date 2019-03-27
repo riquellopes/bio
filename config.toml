@@ -9,7 +9,7 @@ enableRobotsTXT = true
   avatar = "profile.png"
   author = "Henrique Lopes"
   GoogleSiteVerification = "fBjh-tuMYs3X78qprGCAy6fY38ish64qYL7Y_c74Q4U"
-  description = "Henrique's personal website, about his open source projects and web posts."
+  description = "Hi! Henrique Lopes, a Brazilian Software Engineer."
   custom_css = ['css/custom.css']
 
 [params.social]
