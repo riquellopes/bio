@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projects on Henrique Lopes</title>
-    <link>http://henriquelopes.com.br/categories/projects/</link>
+    <link>https://henriquelopes.com.br/categories/projects/</link>
     <description>Recent content in projects on Henrique Lopes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://henriquelopes.com.br/categories/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://henriquelopes.com.br/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://henriquelopes.com.br/projects/</link>
+      <link>https://henriquelopes.com.br/projects/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://henriquelopes.com.br/projects/</guid>
+      <guid>https://henriquelopes.com.br/projects/</guid>
       <description></description>
     </item>
     
